@@ -10,8 +10,8 @@ using web_application.Data;
 namespace web_application.Migrations
 {
     [DbContext(typeof(EducationTubeContext))]
-    [Migration("20221207163006_HopeThisWorks")]
-    partial class HopeThisWorks
+    [Migration("20221212125821_PleaseWork")]
+    partial class PleaseWork
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -169,6 +169,9 @@ namespace web_application.Migrations
 
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Tokens")
+                        .HasColumnType("int");
 
                     b.Property<bool>("TwoFactorEnabled")
                         .HasColumnType("bit");

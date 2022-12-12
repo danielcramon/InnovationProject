@@ -26,8 +26,22 @@ using web_application.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\Views\_ViewImports.cshtml"
+using web_application.Areas.Identity.Data;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"59ddf6f01837fb980d1a7e30b7de96bb00224f71", @"/Views/Authentication/Login.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"797a0083f90b0669da2e948824fee53cfa4572df", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8cc1c02031820eb503bb8cbeca2b413ea8d02f19", @"/Views/_ViewImports.cshtml")]
     public class Views_Authentication_Login : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Authentication", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -59,7 +73,7 @@ using web_application.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n<h2>Login</h2>\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "59ddf6f01837fb980d1a7e30b7de96bb00224f714279", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "59ddf6f01837fb980d1a7e30b7de96bb00224f714733", async() => {
                 WriteLiteral("\r\n    <div class=\"input-group mt-2\">\r\n        <div class=\"input-group-prepend\">\r\n            <span class=\"input-group-text\">Email</span>\r\n        </div>\r\n        <input type=\"email\" class=\"form-control\" aria-label=\"Email\" name=\"Email\"");
                 BeginWriteAttribute("value", " value=\"", 394, "\"", 477, 1);
 #nullable restore

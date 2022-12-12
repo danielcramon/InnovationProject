@@ -293,11 +293,8 @@ C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.csprojAssemblyReference.cache
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\staticwebassets\web-application.StaticWebAssets.Manifest.cache
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\staticwebassets\web-application.StaticWebAssets.xml
-C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.RazorAssemblyInfo.cache
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.RazorAssemblyInfo.cs
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.AssemblyInfoInputs.cache
@@ -321,3 +318,9 @@ C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.csproj.CopyComplete
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.dll
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.pdb
+C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllVideoes.cshtml.g.cs
+C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetVideo.cshtml.g.cs
+C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\BuyTokens.cshtml.g.cs
+C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
