@@ -28,13 +28,13 @@
                             if (User.Identity.IsAuthenticated) // Gatekeeping 'a' links for signed in users
                             {
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Authentication" asp-action="SignOut">Sign Out</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Authentication" asp-action="SignOut" align="right">Sign Out</a>
                                 </li>
                             }
                             else
                             {
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Authentication" asp-action="Login">Login</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Authentication" asp-action="Login" align="right">Login</a>
                                 </li>
                             }
                         }
