@@ -36,11 +36,6 @@ namespace web_application.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
         [HttpGet]
-        public IActionResult AllVideoes()
-        {
-            return View();
-        }
-        [HttpGet]
         public IActionResult GetVideo()
         {
             return View();

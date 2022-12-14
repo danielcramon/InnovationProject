@@ -318,7 +318,6 @@ C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.csproj.CopyComplete
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.dll
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.pdb
-C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllVideoes.cshtml.g.cs
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetVideo.cshtml.g.cs
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\BuyTokens.cshtml.g.cs
 C:\Users\45226\Documents\GitHub\InnovationProject\EducationTube\web-application\obj\Debug\netcoreapp3.1\web-application.MvcApplicationPartsAssemblyInfo.cs
